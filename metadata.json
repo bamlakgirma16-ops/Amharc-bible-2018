@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Remix: Remix: Amharic Bible 2018",
+  "description": "Amharic Bible 2018 New, featuring offline scripture reading, advanced search indexing, bookmarks, study notes, and bilingual comparison, developed by Samson Terefe.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
