@@ -22,6 +22,6 @@ dependencyResolutionManagement {
   }
 }
 
-rootProject.name = "Amharic Bible 2018"
+rootProject.name = "AnnA Tutor"
 
 include(":app")
